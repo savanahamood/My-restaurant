@@ -1,3 +1,3 @@
 # My-restaurant
 
-![wireframe]{C:\Users\user\Desktop\MYRES.jpg}
+![wireframe]{MYRES.jpg}
