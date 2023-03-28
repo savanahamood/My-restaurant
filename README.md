@@ -1,3 +1,3 @@
 # My-restaurant
 
-![wireframe]{MYRES.jpg}
+![wireframe]{/home/savana/day2/My-restaurant/MYRES.jpg}
